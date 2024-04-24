@@ -11,8 +11,8 @@ Supplemental Electronic Data files for:
  </br>  
  </br>
 
-### This directory contains data and code used in analyses
-
+### This repository contains the following data and code: 
+</br>
 
 <i>/Dornburg_Davin2024/ScoredDataSheet1/</i>   
 
