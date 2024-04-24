@@ -2,15 +2,15 @@
 
 Supplemental Electronic Data files for:
 
-To what extent is ChatGPT useful for language teacher lesson plan creation?
+# To what extent is ChatGPT useful for language teacher lesson plan creation?
 
-Alex Dornburg & Kristin Davin
+## Alex Dornburg & Kristin Davin
 
 
 
 ###
 
-This directory contains data and code used in analyses
+## This directory contains data and code used in analyses
 
 
 /Dornburg_Davin2024/ScoredDataSheet1/ contains the scored output data that was analysed
